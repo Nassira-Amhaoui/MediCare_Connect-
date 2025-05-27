@@ -1,2 +1,2 @@
-# MediCare_Connect-
+# MediCare_Connect
  MediCare_Connect est un System représente un outil innovant dans le domaine de la surveillance médicale, offrant aux utilisateurs un accès pratique et intuitif à des fonctionnalités essentielles pour surveiller leur santé. Conçue pour être conviviale et facile à utiliser, à partir d'une application mobile qui propose une gamme variée de services de surveillance et d'outils de gestion de la santé, le tout accessible depuis un appareil mobile connectée.  
